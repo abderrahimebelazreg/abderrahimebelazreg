@@ -44,6 +44,4 @@
 ###
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abderrahimebelazreg&show_icons=true&title_color=ff0000&text_color=ff0000&bg_color=ff0000&locale=en" alt="abderrahimebelazreg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahimebelazreg&" alt="abderrahimebelazreg" /></p>
