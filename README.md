@@ -1,7 +1,7 @@
 <h1 align="center">They Call me Programmer</h1>
 <h3 align="center">Dotnet Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrahimebelazreg&label=Profile%20views&color=00ff2a&style=flat" alt="abderrahimebelazreg" /> </p>
+
 
 
 
@@ -47,7 +47,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abderrahimebelazreg.abderrahimebelazreg&"  />
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrahimebelazreg&label=Profile%20views&color=00ff2a&style=flat" alt="abderrahimebelazreg" /> </p>
 ###
 
 
