@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abderrahimebelazreg.abderrahimebelazreg&"  />
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrahimebelazreg&label=Profile%20views&color=00ff2a&style=flat" alt="abderrahimebelazreg" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=abderrahimebelazreg&label=Profile%20views&color=00ff2a&style=flat" alt="abderrahimebelazreg" />
 </div>
 
 
