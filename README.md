@@ -49,7 +49,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abderrahimebelazreg.abderrahimebelazreg&"  />
   <img src="https://komarev.com/ghpvc/?username=abderrahimebelazreg&label=Profile%20views&color=00ff2a&style=flat" alt="abderrahimebelazreg" />
 </div>
-
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=159&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6FF77B"  />
+</div>
 
 
 
